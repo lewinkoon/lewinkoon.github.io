@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hola mundo</title>
-    <link>https://lewinkoon.github.io/</link>
+    <link>https://lewinkoon.xyz/</link>
     <description>Recent content on Hola mundo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-EU</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 31 Aug 2020 18:43:22 +0200</lastBuildDate>
     
-	<atom:link href="https://lewinkoon.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lewinkoon.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to something</title>
-      <link>https://lewinkoon.github.io/blog/introduction/</link>
+      <link>https://lewinkoon.xyz/blog/introduction/</link>
       <pubDate>Mon, 31 Aug 2020 18:43:22 +0200</pubDate>
       
-      <guid>https://lewinkoon.github.io/blog/introduction/</guid>
+      <guid>https://lewinkoon.xyz/blog/introduction/</guid>
       <description>This is a section Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum neque in risus aliquam auctor. Proin ante mi, venenatis vel molestie sed, iaculis tristique felis. Phasellus tempor vestibulum dignissim. Nam ligula felis, molestie nec sodales ac, porttitor et ipsum. Aliquam urna diam, fermentum at rhoncus tempus, aliquet faucibus felis. Duis laoreet metus risus, eget cursus lacus pellentesque vel. Quisque lacinia interdum lacinia. Vestibulum rhoncus diam mi, pharetra consequat nulla malesuada eget.</description>
     </item>
     

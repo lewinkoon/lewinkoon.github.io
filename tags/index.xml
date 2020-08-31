@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hola mundo</title>
-    <link>https://lewinkoon.github.io/tags/</link>
+    <link>https://lewinkoon.xyz/tags/</link>
     <description>Recent content in Tags on Hola mundo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-EU</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 31 Aug 2020 18:43:22 +0200</lastBuildDate>
     
-	<atom:link href="https://lewinkoon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lewinkoon.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>intro</title>
-      <link>https://lewinkoon.github.io/tags/intro/</link>
+      <title>sample</title>
+      <link>https://lewinkoon.xyz/tags/sample/</link>
       <pubDate>Mon, 31 Aug 2020 18:43:22 +0200</pubDate>
       
-      <guid>https://lewinkoon.github.io/tags/intro/</guid>
+      <guid>https://lewinkoon.xyz/tags/sample/</guid>
       <description></description>
     </item>
     
