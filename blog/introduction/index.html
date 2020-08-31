@@ -1,24 +1,18 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="es-EU">
 
 <head>
-  <title>Math Typesetting | codex</title>
+  <title>How to something | Hola mundo</title>
 
   <meta charset="UTF-8">
   <meta name="language" content="en">
-  <meta name="description" content="A brief guide to setup KaTeX">
+  <meta name="description" content="This is a description">
   <meta name="keywords" content="gohugo , hugo , go , blog">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   
-  
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Math Typesetting" />
-  <meta name="twitter:description" content="A brief guide to setup KaTeX"/>
-  <meta name="twitter:site" content="https://twitter.com/lewinkoon" />
-  <meta name="twitter:creator" content="https://twitter.com/lewinkoon" />
   
 
   <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
@@ -54,9 +48,9 @@
             "@id": "https:\/\/lewinkoon.github.io\/"
       },
       "articleSection" : "blog",
-      "name" : "Math Typesetting",
-      "headline" : "Math Typesetting",
-      "description" : "A brief guide to setup KaTeX",
+      "name" : "How to something",
+      "headline" : "How to something",
+      "description" : "This is a description",
       "inLanguage" : "en-US",
       "author" : "",
       "creator" : "",
@@ -64,10 +58,10 @@
       "accountablePerson" : "",
       "copyrightHolder" : "",
       "copyrightYear" : "2020",
-      "datePublished": "2020-06-05 00:00:00 \u002b0000 UTC",
-      "dateModified" : "2020-06-05 00:00:00 \u002b0000 UTC",
-      "url" : "https:\/\/lewinkoon.github.io\/blog\/math-typesetting\/",
-      "wordCount" : "119",
+      "datePublished": "2020-08-31 18:43:22 \u002b0200 CEST",
+      "dateModified" : "2020-08-31 18:43:22 \u002b0200 CEST",
+      "url" : "https:\/\/lewinkoon.github.io\/blog\/introduction\/",
+      "wordCount" : "138",
       "keywords" : ["gohugo", "hugo", "go", "blog", "Blog"]
     }
   
@@ -109,47 +103,23 @@
       <div class="post__container">
         <div class="post">
           <header class="post__header">
-            <h1 id="post__title">Math Typesetting</h1>
-            <time datetime="2020-06-05 00:00:00 &#43;0000 UTC" class="post__date">Jun 5 2020</time> 
+            <h1 id="post__title">How to something</h1>
+            <time datetime="2020-08-31 18:43:22 &#43;0200 CEST" class="post__date">31 Aug 20 18:43</time> 
           </header>
           <article class="post__content">
               
-<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
-<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
-<ul>
-<li>Create a partial under <code>/layouts/partials/math.html</code></li>
-<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
-<li>Include the partial in your templates like so:</li>
-</ul>
-<pre><code>{{ if or .Params.math .Site.Params.math }}
-{{ partial &quot;math.html&quot; . }}
-{{ end }}
-</code></pre>
-<ul>
-<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
-<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
-</ul>
-<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a>
-</p>
-<h3 id="examples">Examples<a class="anchor" href="#examples">#</a></h3>
-<p>Inline math: $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$</p>
-<p>Block math:</p>
-<p>$$
-\sigma(t) = \cfrac{1}{1 + e^{-t}}
-$$</p>
+<h2 id="this-is-a-section">This is a section<a class="anchor" href="#this-is-a-section">#</a></h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum neque in risus aliquam auctor. Proin ante mi, venenatis vel molestie sed, iaculis tristique felis. Phasellus tempor vestibulum dignissim. Nam ligula felis, molestie nec sodales ac, porttitor et ipsum. Aliquam urna diam, fermentum at rhoncus tempus, aliquet faucibus felis. Duis laoreet metus risus, eget cursus lacus pellentesque vel. Quisque lacinia interdum lacinia. Vestibulum rhoncus diam mi, pharetra consequat nulla malesuada eget. Vestibulum elementum, arcu non dignissim tempor, ex massa pulvinar elit, non tempor lacus lorem ac tellus. Phasellus et sagittis nulla. Praesent laoreet ipsum vel vulputate consectetur. Quisque gravida dapibus sem eu scelerisque. In dapibus ornare diam, egestas tristique tortor pulvinar euismod.</p>
+<figure>
+    <p></p>
+    <img src="/rotor.svg"
+         alt="Figure 1: Rotary mechanical device that extracts energy from a fluid flow and converts it into useful work."/> <figcaption>
+            <p><strong>Figure 1:</strong> Rotary mechanical device that extracts energy from a fluid flow and converts it into useful work.</p>
+        </figcaption>
+</figure>
+<h2 id="this-a-another-section">This a another section<a class="anchor" href="#this-a-another-section">#</a></h2>
 
-              
-                  
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-            showMathMenu: false, //disables context menu
-            tex2jax: {
-            inlineMath: [ ['$','$'], ['\\(','\\)'] ]
-           }
-    });
-</script>
               
           </article>
           
@@ -157,22 +127,12 @@ $$</p>
 <ul class="tags__list">
     
     <li class="tag__item">
-        <a class="tag__link" href="https://lewinkoon.github.io/tags/math/">math</a>
+        <a class="tag__link" href="https://lewinkoon.github.io/tags/intro/">intro</a>
     </li></ul>
 
  <div class="pagination">
   
-    <a class="pagination__item" href="https://lewinkoon.github.io/blog/rich-text/">
-        <span class="pagination__label">Previous Post</span>
-        <span class="pagination__title">Rich Content</span>
-    </a>
-  
 
-  
-    <a class="pagination__item" href="https://lewinkoon.github.io/blog/markdown-syntax-guide/">
-      <span class="pagination__label">Next Post</span>
-      <span class="pagination__title" >Markdown Syntax Guide</a>
-    </a>
   
 </div>
 
@@ -185,10 +145,10 @@ $$</p>
   
      
     
-      <a class="social-icons__link" title="Twitter"
-         href="https://twitter.com/lewinkoon"
+      <a class="social-icons__link" title="Email"
+         href="mailto:lewinkoon&#43;github@gmail.com"
          target="_blank" rel="noopener">
-        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.github.io/svg/twitter.svg')"></div>
+        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.github.io/svg/email.svg')"></div>
       </a>
     
   
@@ -200,12 +160,34 @@ $$</p>
         <div class="social-icons__icon" style="background-image: url('https://lewinkoon.github.io/svg/github.svg')"></div>
       </a>
     
+  
+     
+    
+  
+     
+    
+      <a class="social-icons__link" title="Youtube"
+         href="https://www.youtube.com/channel/UCt4Ogih7oqbDAa6eVSw601g"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.github.io/svg/youtube.svg')"></div>
+      </a>
+    
      
 </div>
 
             <p>© 2020</p>
           </footer>
           </div>
+      </div>
+      
+      <div class="toc-container">
+          
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#this-is-a-section">This is a section</a></li>
+    <li><a href="#this-a-another-section">This a another section</a></li>
+  </ul>
+</nav>
       </div>
       
     </div>
@@ -225,6 +207,8 @@ $$</p>
   <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
     data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
 
+  
+    <script src="/js/table-of-contents.js"></script>
   
 
 
