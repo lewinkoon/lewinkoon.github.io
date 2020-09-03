@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sample on Hola mundo</title>
+    <title>sample on Hello world</title>
     <link>https://lewinkoon.xyz/tags/sample/</link>
-    <description>Recent content in sample on Hola mundo</description>
+    <description>Recent content in sample on Hello world</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-EU</language>
+    <language>en-US</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Mon, 31 Aug 2020 18:43:22 +0200</lastBuildDate>
     
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>How to something</title>
+      <title>Introduction</title>
       <link>https://lewinkoon.xyz/blog/introduction/</link>
       <pubDate>Mon, 31 Aug 2020 18:43:22 +0200</pubDate>
       
