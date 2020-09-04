@@ -18,27 +18,32 @@
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/blog/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lewinkoon.xyz/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/tags/historia/</loc>
+    <loc>https://lewinkoon.xyz/tags/bailen/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/blog/la-guerra-de-la-independencia/</loc>
+    <loc>https://lewinkoon.xyz/tags/bayona/</loc>
+    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/tags/bonaparte/</loc>
+    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/tags/empecinado/</loc>
+    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/historia/</loc>
+    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/historia/la-guerra-de-la-independencia/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
   </url>
   
@@ -58,23 +63,8 @@
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/blog/introduccion/</loc>
-    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lewinkoon.xyz/en/blog/introduction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/blog/introduccion/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/tags/sample/</loc>
-    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
+    <loc>https://lewinkoon.xyz/tags/valencay/</loc>
+    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
   </url>
   
   <url>
