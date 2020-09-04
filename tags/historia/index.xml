@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Hola mundo</title>
-    <link>https://lewinkoon.xyz/blog/</link>
-    <description>Recent content in Blogs on Hola mundo</description>
+    <title>historia on Hola mundo</title>
+    <link>https://lewinkoon.xyz/tags/historia/</link>
+    <description>Recent content in historia on Hola mundo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 04 Sep 2020 16:53:11 +0200</lastBuildDate>
     
-	<atom:link href="https://lewinkoon.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lewinkoon.xyz/tags/historia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://lewinkoon.xyz/blog/la-guerra-de-la-independencia/</guid>
       <description>Napoleón atrae a Bayona (sur de Francia, cerca de la frontera española) a Carlos IV y a Fernando VII. Ambos renuncian a la corona española (*abdicaciones de Bayona , mayo de 1808) a favor de José Bonaparte, hermano de Napoleón, que tratará de aplicar un programa de reformas para España: el Estatuto de Bayona (es una carta otorgada , una pseudo constitución que, en lugar de ser dictada por la soberanía popular, tiene su origen en la voluntad del monarca).</description>
-    </item>
-    
-    <item>
-      <title>Introducción</title>
-      <link>https://lewinkoon.xyz/blog/introduccion/</link>
-      <pubDate>Mon, 31 Aug 2020 18:43:22 +0200</pubDate>
-      
-      <guid>https://lewinkoon.xyz/blog/introduccion/</guid>
-      <description>Esto es una sección Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum neque in risus aliquam auctor. Proin ante mi, venenatis vel molestie sed, iaculis tristique felis. Phasellus tempor vestibulum dignissim. Nam ligula felis, molestie nec sodales ac, porttitor et ipsum. Aliquam urna diam, fermentum at rhoncus tempus, aliquet faucibus felis. Duis laoreet metus risus, eget cursus lacus pellentesque vel. Quisque lacinia interdum lacinia. Vestibulum rhoncus diam mi, pharetra consequat nulla malesuada eget.</description>
     </item>
     
   </channel>

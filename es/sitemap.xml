@@ -3,101 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lewinkoon.xyz/es/</loc>
+    <loc>https://lewinkoon.xyz/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://lewinkoon.xyz/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://lewinkoon.xyz/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/es/"
-                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/blog/</loc>
+    <loc>https://lewinkoon.xyz/blog/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://lewinkoon.xyz/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://lewinkoon.xyz/blog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/es/blog/"
-                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/tags/floridablanca/</loc>
+    <loc>https://lewinkoon.xyz/tags/historia/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/tags/historia/</loc>
+    <loc>https://lewinkoon.xyz/blog/la-guerra-de-la-independencia/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/tags/jose/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/es/blog/la-guerra-de-la-independencia/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/es/tags/</loc>
+    <loc>https://lewinkoon.xyz/tags/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://lewinkoon.xyz/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://lewinkoon.xyz/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/es/tags/"
-                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/blog/introduccion/</loc>
+    <loc>https://lewinkoon.xyz/blog/introduccion/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lewinkoon.xyz/blog/introduction/"
+                href="https://lewinkoon.xyz/en/blog/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/blog/introduccion/"
+                href="https://lewinkoon.xyz/blog/introduccion/"
                 />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/tags/sample/</loc>
+    <loc>https://lewinkoon.xyz/tags/sample/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/es/categories/</loc>
+    <loc>https://lewinkoon.xyz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://lewinkoon.xyz/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://lewinkoon.xyz/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/es/categories/"
                 />
   </url>
   

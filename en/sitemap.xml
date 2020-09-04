@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lewinkoon.xyz/</loc>
+    <loc>https://lewinkoon.xyz/en/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://lewinkoon.xyz/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lewinkoon.xyz/en/"
+                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/blog/</loc>
+    <loc>https://lewinkoon.xyz/en/blog/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://lewinkoon.xyz/blog/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lewinkoon.xyz/en/blog/"
+                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/blog/introduction/</loc>
+    <loc>https://lewinkoon.xyz/en/blog/introduction/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/blog/introduccion/"
+                href="https://lewinkoon.xyz/blog/introduccion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lewinkoon.xyz/blog/introduction/"
+                href="https://lewinkoon.xyz/en/blog/introduction/"
                 />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/tags/introduction/</loc>
+    <loc>https://lewinkoon.xyz/en/tags/introduction/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/tags/</loc>
+    <loc>https://lewinkoon.xyz/en/tags/</loc>
     <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://lewinkoon.xyz/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lewinkoon.xyz/en/tags/"
+                />
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/categories/</loc>
+    <loc>https://lewinkoon.xyz/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://lewinkoon.xyz/es/categories/"
+                href="https://lewinkoon.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lewinkoon.xyz/categories/"
+                href="https://lewinkoon.xyz/en/categories/"
                 />
   </url>
   
