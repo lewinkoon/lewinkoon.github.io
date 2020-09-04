@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on Hello world</title>
+    <link>https://lewinkoon.xyz/tags/introduction/</link>
+    <description>Recent content in introduction on Hello world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 31 Aug 2020 18:43:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://lewinkoon.xyz/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://lewinkoon.xyz/blog/introduction/</link>
+      <pubDate>Mon, 31 Aug 2020 18:43:22 +0200</pubDate>
+      
+      <guid>https://lewinkoon.xyz/blog/introduction/</guid>
+      <description> Hay que comparar cuidadosamente el ejército opositor con el propio para saber dónde la fuerza es superabundante y dónde deficiente. Sun Tzu
+ </description>
+    </item>
+    
+  </channel>
+</rss>

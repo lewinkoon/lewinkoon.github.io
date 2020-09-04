@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jose on Hola mundo</title>
+    <link>https://lewinkoon.xyz/es/tags/jose/</link>
+    <description>Recent content in Jose on Hola mundo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 04 Sep 2020 16:53:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://lewinkoon.xyz/es/tags/jose/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Guerra de la Independencia (1808-1814) #1 - Las abdicaciones de Bayona</title>
+      <link>https://lewinkoon.xyz/es/blog/la-guerra-de-la-independencia/</link>
+      <pubDate>Fri, 04 Sep 2020 16:53:11 +0200</pubDate>
+      
+      <guid>https://lewinkoon.xyz/es/blog/la-guerra-de-la-independencia/</guid>
+      <description>Las abdicaciones de Bayona y los sucesos del 2 de mayo en Madrid Napoleón atrae a Bayona (sur de Francia, cerca de la frontera española) a Carlos IV y a Fernando VII. Ambos renuncian a la corona española (*abdicaciones de Bayona , mayo de 1808) a favor de José Bonaparte, hermano de Napoleón, que tratará de aplicar un programa de reformas para España: el Estatuto de Bayona (es una carta otorgada , una pseudo constitución que, en lugar de ser dictada por la soberanía popular, tiene su origen en la voluntad del monarca).</description>
+    </item>
+    
+  </channel>
+</rss>

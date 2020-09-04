@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://lewinkoon.xyz/</loc>
-    <lastmod>2020-09-01T18:43:22+02:00</lastmod>
+    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://lewinkoon.xyz/blog/</loc>
-    <lastmod>2020-09-01T18:43:22+02:00</lastmod>
+    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://lewinkoon.xyz/blog/introduction/</loc>
-    <lastmod>2020-09-01T18:43:22+02:00</lastmod>
+    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,23 +48,13 @@
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/tags/sample/</loc>
-    <lastmod>2020-09-01T18:43:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/es/tags/sample/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lewinkoon.xyz/tags/sample/"
-                />
+    <loc>https://lewinkoon.xyz/tags/introduction/</loc>
+    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://lewinkoon.xyz/tags/</loc>
-    <lastmod>2020-09-01T18:43:22+02:00</lastmod>
+    <lastmod>2020-08-31T18:43:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

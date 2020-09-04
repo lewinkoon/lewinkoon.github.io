@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 18:43:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 16:53:11 +0200</lastBuildDate>
     
 	<atom:link href="https://lewinkoon.xyz/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Floridablanca</title>
+      <link>https://lewinkoon.xyz/es/tags/floridablanca/</link>
+      <pubDate>Fri, 04 Sep 2020 16:53:11 +0200</pubDate>
+      
+      <guid>https://lewinkoon.xyz/es/tags/floridablanca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historia</title>
+      <link>https://lewinkoon.xyz/es/tags/historia/</link>
+      <pubDate>Fri, 04 Sep 2020 16:53:11 +0200</pubDate>
+      
+      <guid>https://lewinkoon.xyz/es/tags/historia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose</title>
+      <link>https://lewinkoon.xyz/es/tags/jose/</link>
+      <pubDate>Fri, 04 Sep 2020 16:53:11 +0200</pubDate>
+      
+      <guid>https://lewinkoon.xyz/es/tags/jose/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sample</title>
