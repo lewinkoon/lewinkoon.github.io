@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <title>Derivada parcial | Hola mundo</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/post.min.c7b60d6a5d33e4ece157d9d2f3ac6cc9df2b361160e596931470d0c964404c25.css" integrity="sha256-x7YNal0z5OzhV9nS86xsyd8rNhFg5ZaTFHDQyWRATCU="/>
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.c62bfccb371fbe78730bc276eb2535b5591a2ee125580992de5c4c0a90ec2eb9.css" integrity="sha256-xiv8yzcfvnhzC8J26yU1tVkaLuElWAmS3lxMCpDsLrk="/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/lewinkoon.xyz"
+      },
+      "articleSection" : "blog",
+      "name" : "Derivada parcial",
+      "headline" : "Derivada parcial",
+      "description" : "",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2020",
+      "datePublished": "2020-09-06 00:34:00 \u002b0200 CEST",
+      "dateModified" : "2020-09-06 00:34:00 \u002b0200 CEST",
+      "url" : "https:\/\/lewinkoon.xyz\/blog\/derivada-parcial\/",
+      "wordCount" : "230",
+      "keywords" : ["Blog"]
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" id="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="https://lewinkoon.xyz/">inicio</a>
+      </li>
+    
+      <li>
+        <a  class="active"
+         href="https://lewinkoon.xyz/blog">blog</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+    
+
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">Derivada parcial</h1>
+
+            
+            <time datetime="2020-09-06 00:34:00 &#43;0200 CEST" class="post__date">, 6 Septiembre 2020 0:34</time> 
+            <span class="estimation">| Tiempo de lectura: 1 min </span>
+            
+
+            
+
+          </header>
+          <article class="post__content">
+              
+<p><strong>DERIVADA PARCIAL.</strong> Sea $ F:{R}^n \rightarrow {R}^n$. Llamaremos derivada parcial de $F$ en el punto $a$ respecto de $x_i$ a,</p>
+<p>$$
+\frac{\partial F}{\partial x_i}(a) = \lim_{h\to 0} \frac{F(a_1,a_2,&hellip;,a_i + a_{i-1},a_i + h,a_{i+1},&hellip;,a_n) - F(a_1,a_2,&hellip;,a_n)}{h}
+$$</p>
+<p>donde $a = (a_1,a_2,&hellip;,a_n)$. También se puede denotar por $F_{x_i}(a)$</p>
+<p><strong>Nota.</strong> Si el límite que define la derivada parcial no existe o no es finito, entonces diremos que la derivada parcial no existe.</p>
+<h4 id="ejemplo">Ejemplo</h4>
+<p>Sea</p>
+<p>$$
+f(x,y,z) = x^2sen(y + 2z)
+$$</p>
+<p>Vamos a calcular la derivada parcial repecto de $y$ de esta función en el punto $(3,\pi,0):$</p>
+<p>$$
+\frac{\partial f}{\partial y}(3,\pi,0) = \lim_{h\to 0} \frac{f(3,\pi + h,0) - f(3,\pi,0)}{h} = \lim_{h\to 0} \frac{3^2sen(\pi + h) - 3^2sen\pi}{h}
+$$</p>
+<p>$$
+= \lim_{h\to 0} \frac{3^2sen(\pi + h) - 3^2sen\pi}{h} = \lim_{h\to 0} \frac{3^2sen(\pi + h) - 3^2sen\pi}{h}
+$$</p>
+<p><strong>Nota.</strong> Si $f$ admite derivada parcial respecto de $x_i$ en todos los puntos de un conjunto, entonces podemos hablar de la función derivada parcial de $f$ respecto de $x_i$. Para calcular la derivada parcial respecto de $x_i$. Para calcular la derivada parcial respecto de $x_i$ se pueden aplicar las reglas de la derivación de las funciones de una variable; para ello basta considerar las restantes variables $x_j, j\neq i$, como si fueran constantes. Nótese que, al suponer que el resto de variables son constantes, la función $f$ pasa a ser una función de una variable y podemos derivarla.</p>
+
+
+              
+                  
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_SVG"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+            showMathMenu: false, //disables context menu
+            tex2jax: {
+            inlineMath: [ ['$','$'], ['\\(','\\)'] ]
+           }
+    });
+</script>
+              
+          </article>
+          
+
+<ul class="tags__list">
+    
+    <li class="tag__item">
+        <a class="tag__link" href="https://lewinkoon.xyz/tags/derivada/">derivada</a>
+    </li></ul>
+
+ <div class="pagination">
+  
+    <a class="pagination__item" href="https://lewinkoon.xyz/blog/la-guerra-de-la-independencia/">
+        <span class="pagination__label">
+          
+          Anterior
+          
+        </span>
+        <span class="pagination__title">La Guerra de la Independencia (1808-1814)</span>
+    </a>
+  
+
+  
+</div>
+
+          
+          <footer class="post__footer">
+            
+
+
+<div class="social-icons">
+  
+     
+    
+      <a class="social-icons__link" title="Email"
+         href="mailto:lewinkoon&#43;github@gmail.com"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.xyz/svg/email.svg')"></div>
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__link" title="GitHub"
+         href="https://github.com/lewinkoon"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.xyz/svg/github.svg')"></div>
+      </a>
+    
+  
+     
+    
+  
+     
+    
+      <a class="social-icons__link" title="Youtube"
+         href="https://www.youtube.com/channel/UCt4Ogih7oqbDAa6eVSw601g"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://lewinkoon.xyz/svg/youtube.svg')"></div>
+      </a>
+    
+  
+  
+  
+
+
+</div>
+
+            <p>© 2020</p>
+          </footer>
+          </div>
+      </div>
+      
+    </div>
+    
+
+  </main>
+
+   
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+  
+
+
+</body>
+
+</html>

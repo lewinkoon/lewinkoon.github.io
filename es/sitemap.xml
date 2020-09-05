@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://lewinkoon.xyz/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
+    <lastmod>2020-09-06T00:34:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://lewinkoon.xyz/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/blog/</loc>
+    <lastmod>2020-09-06T00:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/tags/derivada/</loc>
+    <lastmod>2020-09-06T00:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/blog/derivada-parcial/</loc>
+    <lastmod>2020-09-06T00:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lewinkoon.xyz/tags/</loc>
+    <lastmod>2020-09-06T00:34:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lewinkoon.xyz/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://lewinkoon.xyz/tags/"
                 />
   </url>
   
@@ -38,28 +68,8 @@
   </url>
   
   <url>
-    <loc>https://lewinkoon.xyz/historia/</loc>
+    <loc>https://lewinkoon.xyz/blog/la-guerra-de-la-independencia/</loc>
     <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/historia/la-guerra-de-la-independencia/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lewinkoon.xyz/tags/</loc>
-    <lastmod>2020-09-04T16:53:11+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lewinkoon.xyz/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://lewinkoon.xyz/tags/"
-                />
   </url>
   
   <url>
